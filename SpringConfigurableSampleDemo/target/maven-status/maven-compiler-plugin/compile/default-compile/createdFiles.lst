@@ -1,0 +1,7 @@
+com\mingi\aspectjconfigure\service\MyService.class
+com\mingi\aspectjconfigure\aspect\ProfillingAspect.class
+com\mingi\aspectjconfigure\service\EntitlementCalculationService.class
+com\mingi\aspectjconfigure\config\AppConfig.class
+com\mingi\aspectjconfigure\dao\Account.class
+com\mingi\aspectjconfigure\Main.class
+com\mingi\aspectjconfigure\service\StubEntitlementCalculationService.class
